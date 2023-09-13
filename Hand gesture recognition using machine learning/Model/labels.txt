@@ -1,0 +1,8 @@
+0 Yes
+1 Nice to chat with you
+2 Is today saturday
+3 Happy to see you
+4 Good morning
+5 C
+6 B
+7 A
